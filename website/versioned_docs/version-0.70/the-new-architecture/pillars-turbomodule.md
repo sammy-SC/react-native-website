@@ -627,17 +627,6 @@ This is the last piece of Native Code for Android. It defines the `TurboReactPac
 
 Now you can install and use the Turbo Native Module in your app.
 
-### Shared
-
-First of all, we need to add the NPM package which contains the Component to the app. This can be done with the following command:
-
-```sh
-cd MyApp
-yarn add ../RTNCalculator
-```
-
-This command will add the `RTNCalculator` module to the `node_modules` of your app.
-
 ### iOS
 
 Then, you need to install the new dependencies in your iOS project. To do so, run these commands:
